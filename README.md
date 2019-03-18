@@ -31,3 +31,5 @@ npm run build
 npm start
     
 ```
+## Screenshot
+![screenshot](./img/screenshot.gif)
