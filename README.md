@@ -1,6 +1,7 @@
 ## depthmap 과 shader을 사용한 인터렉티브 이벤트 
 
-2d 이미지를 depth맵을 통해 3d처럼 느껴지는 효과
+2d 이미지를 depth맵을 통해 3d처럼 느껴지는 효과<br>
+Threejs + Shader + webpack
 
 ## Folder Structure
 
